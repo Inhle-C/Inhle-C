@@ -1,4 +1,5 @@
 ## Hi there, I'm Inhle Cele👋
+![](https://komarev.com/ghpvc/?username=Inhle-C&color=blue)
 
 ### About Me
 I'm a Computer Engineering student with a passion for **embedded systems, concurrent programming, and software development**. I enjoy **solving complex problems**, **building efficient systems**, and **exploring new technologies**.  
