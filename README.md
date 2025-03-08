@@ -28,8 +28,8 @@ I'm a Computer Engineering student with a passion for **embedded systems, concur
 
 ### 📫 How to reach me:
 - **GitHub:** [Inhle-C](https://github.com/Inhle-C)
-- **Email:** [Your Email] (Optional)
-- **LinkedIn:** [Your LinkedIn] (Optional)  
+- **Email:** Inhle04@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/inhle-cele-651340258/
 
 ### 😄 Pronouns:
 She/Her  
