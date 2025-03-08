@@ -36,4 +36,8 @@ I'm a Computer Engineering student with a passion for **embedded systems, concur
 She/Her  
 
 ### ⚡ Fun fact:
-I love **lifting weights at the gym** 💪 and **mixing electronic music** 🎧!
+I love **lifting weights at the gym** 💪 and **going for runs** 👟🏃‍♂️‍➡️!
+
+### 🎉 Thanks for Reading!
+
+![Thanks for Reading](https://www.icegif.com/wp-content/uploads/2023/06/icegif-795.gif)
